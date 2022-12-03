@@ -1,0 +1,41 @@
+
+#container_home{
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    border: black solid 2px;
+    
+    
+   
+}
+
+#home{
+  width: 100vw;
+  height: 100vh;
+  border: black solid 2px;
+  
+
+
+}
+
+#edit{
+margin: 5px;
+background: blue;
+}
+
+#elimi{
+margin: 5px;
+background: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
