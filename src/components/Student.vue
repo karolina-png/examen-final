@@ -118,7 +118,7 @@
           </div>
         </div>
 
-        <section id="seccion">
+        <section>
           <table class="table">
             <thead>
               <tr>
